@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with: Project Ideas
 - 📫 How to reach me: email: emmakassem04@gmail.com
 - ⚡ Fun fact: I am ambidextrous
-
+[![That1artkid's GitHub | Stats](https://stats.quine.sh/That1artkid/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=That1artkid)
 <!--
 **That1artkid/That1artkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
