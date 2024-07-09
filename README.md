@@ -1,10 +1,10 @@
 ### Hi there my name is Emma Kassem👋
 
-- 🔭 I’m currently working on: searching for a fun new Project
+- 🔭 I’m currently working on: Data Science DISCOVERY content creation
 - 🌱 I’m currently learning: JavaScript
 - ✨ I’ve learned: Java and Python
 - 🤔 I’m looking for help with: Project Ideas
-- 📫 How to reach me: email: emmakassem04@gmail.com
+- 📫 How to reach me: email: ekassem2@illinois.edu
 - ⚡ Fun fact: I am ambidextrous
 
 
